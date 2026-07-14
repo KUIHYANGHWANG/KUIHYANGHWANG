@@ -1,6 +1,6 @@
 # Hi there, I'm Olivia (Kuihyang) Hwang 👋
 
-An expert **Senior UI/UX Developer** and **UI Engineer** with 10+ years of experience bridging the gap between design systems and front-end architecture. Based in Seoul, South Korea.
+An expert **Senior UI/UX Developer** and **UI Engineer** with 20+ years of experience bridging the gap between design systems and front-end architecture. Based in Seoul, South Korea.
 
 ---
 
