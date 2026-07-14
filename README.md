@@ -39,7 +39,7 @@ An enterprise-grade UI component system designed with **Atomic Design patterns**
 
 ## 📫 Connect with Me
 * 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/kuihyang-hwang-82a176182/)
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:olivia740609@gmail.com)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:olivia.kh.hwang@gmail.com)
 
 ---
 <p align="center">
